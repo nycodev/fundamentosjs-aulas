@@ -1,0 +1,16 @@
+console.log('\nOperadores aritméticos\n')
+console.log('1 + 1 é: ', 1+1)
+console.log('3-3 é: ', 3-3)
+console.log('4*2 é: ', 4*2)
+console.log('9/3 é: ', 9/3)
+console.log('6%2 é: ', 6%2)
+console.log('3**3 é: ', 3**3)
+
+
+console.log('\nOperadores de comparação\n')
+console.log('1 > 2 é: ', 1>2)
+console.log('2 < 4 é: ', 2<4)
+console.log('3 === 2', 3===2)
+console.log('3!==2', 3!==2)
+console.log('1>=1', 1>=1)
+console.log('4<=5', 4<=5)
